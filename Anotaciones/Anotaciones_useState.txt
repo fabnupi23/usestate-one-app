@@ -1,0 +1,4 @@
+El useState funciona nos entrega un estado (counter) y una función (setCounter) para actualizar nuestro estado y después el valor inicial que va a tener, en este caso 0 (UseState(0)) 
+y lo iremos incrementando.
+
+*Un arrowFunction se utiliza cuando se va a pasar un argumento.
