@@ -1,11 +1,10 @@
 import React from 'react'
+import { Counterapp } from './Counterapp';
 
 function App() {
   return (
     <div>
-      <h1>
-        App
-      </h1>
+      <Counterapp/>
     </div>
   )
 }
